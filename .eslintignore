@@ -6,4 +6,5 @@ Temp/
 # se proponer desabilitar las reglas de ESLINT.
 # en modulos mas avanzadas se implementaran.
 01_TypeScriptTypes/
+04_CombiningTypes/
 Project/
