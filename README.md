@@ -23,6 +23,13 @@
 
   - https://roadmap.sh/react?s=645ab341f3d9ecfa51d91427
 
+
+# Manual
+
+- git clone https://github.com/CarlosCalderon01/RoadMap_TypeScript.git
+
+- pnpm install
+
 # Reminder:
 
 - These reminders are intended to review and remember the topic, they are only useful if you have already studied the code previously. For greater precision, deepen the content.
@@ -36,7 +43,6 @@
 
     - Second install the aditional tool for execute typescrip:
       - npm install -g ts-node
-
 
 # Bibliography:
 

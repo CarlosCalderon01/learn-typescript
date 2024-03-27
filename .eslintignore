@@ -1,10 +1,8 @@
 node_modules/
 Temp/
-
-
 # Para poder aprender bien las bases de typeScript.
 # se proponer desabilitar las reglas de ESLINT.
-# en modulos mas avanzadas se implementaran.
-01_TypeScriptTypes/
-04_CombiningTypes/
-Project/
+# solo en el modulo que contenie material del curso
+src/
+
+.eslintrc.js
