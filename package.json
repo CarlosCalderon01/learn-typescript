@@ -1,26 +1,25 @@
 {
-  "name": "roadmap_typescript",
+  "name": "learn-typescript",
   "version": "1.0.0",
-  "description": "un paquete de aprendizaje en base a varias bibliografias para aprender TypeScript",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CarlosCalderon01/RoadMap_TypeScript.git"
+    "url": "git+https://github.com/CarlosCalderon01/learn-typescript.git"
   },
   "keywords": [
     "Learn",
-    "TypeScript",
-    "One"
+    "TypeScript"
   ],
   "author": "Carlos Alberto Calderon Barrios",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CarlosCalderon01/RoadMap_TypeScript/issues"
+    "url": "https://github.com/CarlosCalderon01/learn-typescript/issues"
   },
-  "homepage": "https://github.com/CarlosCalderon01/RoadMap_TypeScript#readme",
+  "homepage": "https://github.com/CarlosCalderon01/learn-typescript#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "eslint": "^8.56.0",

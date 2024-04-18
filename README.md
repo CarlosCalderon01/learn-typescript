@@ -1,54 +1,25 @@
-# Learning TypeScript With RoadMap
-
 # Summary
 
-- This repository focuses on learning, studying and working for each of the elements designated by RoadMap for learning TypeScript.
+- This programming project was created with a purpose: to facilitate and aid my understanding of the TypeScript programming language, through teaching and educating new programmers. It emphasizes on creating new content for explaining these concepts.
 
-# Objective:
+- As an additional point, it is clarified that the project will utilize freely available community content, specifically the TypeScript Study Guide from the RoadMap platform, as a structured guide for learning the topics covered by the language.
 
-- Learn everything about ReactJs by going through each of the elements of RoadMap including easy, intermediate and advanced components.
+# General objective
 
-# Specific Objective:
+- A todo sobre TypeScript recorriendo cada uno de los elementos de RoadMap incluyendo componentes faciles, intermedios y avanzados.
 
-- Study each of the roadmap elements.
-- Carry out small tests and exercises in a practical way for those elements.
-- Write a short summary to understand that element in the README.
+# Specific objectives
 
+- To traverse each of the roadmap elements from start to finish, and from lower to higher difficulty.
 
-### Anotaciones y recomendaciones:
+- To create examples for each of the elements covered.
 
-- use "ts-node namefile.js" for execute file and test your code.
+- To draft a concluding text summarizing all topics as a review method.
 
-### My Progress in RoadMap using ReactJs:
+# bibliography
 
-  - https://roadmap.sh/react?s=645ab341f3d9ecfa51d91427
+- Link to view TypeScript in RoadMaps [Link!](https://roadmap.sh/typescript)
 
+- Link to access my progress in RoadMaps [Link!](https://roadmap.sh/typescript?s=645ab341f3d9ecfa51d91427)
 
-# Manual
-
-- git clone https://github.com/CarlosCalderon01/RoadMap_TypeScript.git
-
-- pnpm install
-
-# Reminder:
-
-- These reminders are intended to review and remember the topic, they are only useful if you have already studied the code previously. For greater precision, deepen the content.
-
-# How to install TypeScript in your pc
-
-  - For install TypeScript use this:
-
-    - First Install the lenguage:
-      - npm install -g typescript
-
-    - Second install the aditional tool for execute typescrip:
-      - npm install -g ts-node
-
-# Bibliography:
-
-  - Official page of TypeScript:
-      https://www.typescriptlang.org/
-  
-  - https://roadmap.sh/react
-
-# End!
+# End
